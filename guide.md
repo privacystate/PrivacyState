@@ -45,7 +45,12 @@ Think of giving your data as giving someone the power to manipulate, bias, censo
 
 If you feel like you can live without that service, the answer to any of this questions is "no", or the service will not respect your privacy you should consider not even registering.
 
-#### Consider setting up a fake identity.
+### I already have spread my data online. Is there any solution?
+Yes but no. You can go service by service, app by app, website by website mailing the corresponding department and ask them to erase your data and your account. May be the do it, may be they don't. In this case, always distrust their words.
+
+Another solution, that will need more work on your part, is to make much of the data you have spread all over the network obsolete. Consider changing your e-mail adress, your phone number, getting a new credit card (or event a new bank account), etc. Once this is done, you can now be more careful when you are giving your data and where. A good solution is to take note which data you are giving and where so you can then keep track of who has it.
+
+### Consider setting up a fake identity.
 When you are online, having a fake identity is very useful. It can help you avoid giving your personal data to a service you don't trust, or you will not use it that much and why not a service you will be using but you simply don't want them to know who you are or you don't want your real persona to be connected to that service.
 
 _**Some useful tools to set up a fake identity are:**_
@@ -54,7 +59,15 @@ _**Some useful tools to set up a fake identity are:**_
 * [guerrillamail](guerrillamail.com)
 * [mailinator](mailinator.com)
 
+Consider differenciating between a **Fake Identity** and a **Temporary Identity**. We talk about a _Fake Identity_ when we plan to use it as our online "alter ego" and more than once. A _Temporary Identity_ would be an identity which will be used once, maybe for a service who is forcing us to register and we just want to use it once or we don't have interest on having an account there.
+
 # 3. Software
+The software you use is one of the main weaknesses of your privacy. Proprietary software is software that doesn't respect your freedoms as a user, doesn't let you know what it does and you can only stick to its words without being able to check if what they say is true. In addition, most of the time, free proprietary software makes a profit by stealing personal information from you that will then be sold to the highest bidder.
+
+We consider software that respects your privacy the one that does not seek to obtain any benefit from your data, that has zero knowledge practices, that works with encrypted data, that is not intrusive to your privacy. The software that shows no interest in spying and tracking you. Basically, the software that lets you make a free (libre) and safe usage.
+
+Many times the software that meets these conditions is the Open Source software. It may be that on occasion some proprietary software is recommended, even though that will be warned. The fact that some proprietary software is recommended may be due to its policies, its history, transparency and that its general conditions point to a protection and compliance with the above conditions.
+
 ## 3.1 Mailing Services
 ## 3.2 Password Managers
 ## 3.3 Web Browsers
