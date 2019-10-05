@@ -14,7 +14,7 @@ This guides are not aiming in any way to be a source of income for anyone. This 
 ### Adding content
 The way new content should be added is the following:
 * Study the product/service you are about to add. You don't want to harm other users.
-* Once studied, write down why this service is not bad. (Not why is good).
+* Once studied, write down why this service is not bad and why it is good for its users.
 * Discuss with others if necessary.
 * Test the service if possible.
 * Add the service to the list and wait for it to be approved or rejected.
