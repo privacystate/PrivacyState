@@ -1,6 +1,7 @@
 # Components
-[1. Introdution](#1-introduction)
-2. Basics
+
+1. [Introdution](#1-introduction)
+2. [Basics](#2-basics)
 3. Software
    1. Mailing Services
    2. Password Managers
