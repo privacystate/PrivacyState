@@ -28,7 +28,23 @@
       2. CPUs
 
 # 1. Introduction
+There is a difference between Privacy, Security and Anonimity. This guide aims Privacy and Freedom of the users, this sometimes may imply Security, Anonimity or both.
+
+First thing you have to know is the value of your data. There are billionaire companies that are giving their main services for free, think of Google or Facebook. So where's the trick? Yes, you're right: YOU ARE THE MONEY. Well, your data is the money.
+
 # 2. Basics
+If you want privacy, you should not be giving your data away for everything. For example, there are some catchy gifts such as "free trials" or "money giveaways" in trade of your personal data and you should be capable of saying no to this privacy scams.
+
+Think of giving your data as giving someone the power to manipulate, bias, censor and control not only you, but the whole population. Sounds scary? Well, not only sounds: it is. Next time a product/service asks you for your personal data you should think twice. Ask yourself questions such as:
+* Do I really need it? 
+* I really want to give away your data in order to use that service? 
+* Is it worth it? 
+* Will I use it more than once? 
+* Is there any better alternative? 
+* Will this service respect me? 
+
+If you feel like you can live without that service, the answer to any of this questions is "no", or the service will not respect your privacy you should consider not even registering.
+
 # 3. Software
 ## 3.1 Mailing Services
 ## 3.2 Password Managers
