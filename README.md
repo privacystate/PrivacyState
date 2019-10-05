@@ -1,4 +1,4 @@
-# [PrivacyState](https://privacystate.org)
+![PrivacyState Logo](/images/logo.png)
 > [PrivacyState](https://privacystate.org) is a nonprofit which aims to help people enjoy their digital life with total freedom and privacy. We also aim to expose and make formal complaints to the services who are not being respectful with its users.
 
 Welcome to [PrivacyState](https://privacystate.org) resources repository. This will be the place where everyone can collaborate building up the Internet's Privacy Guide. We aim to be one of the most reliable and trustworthy guide in terms of privacy.
