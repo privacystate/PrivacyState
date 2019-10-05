@@ -45,6 +45,15 @@ Think of giving your data as giving someone the power to manipulate, bias, censo
 
 If you feel like you can live without that service, the answer to any of this questions is "no", or the service will not respect your privacy you should consider not even registering.
 
+#### Consider setting up a fake identity.
+When you are online, having a fake identity is very useful. It can help you avoid giving your personal data to a service you don't trust, or you will not use it that much and why not a service you will be using but you simply don't want them to know who you are or you don't want your real persona to be connected to that service.
+
+**Some useful tools to set up a fake identity are:**
+* [Fake Name Generator](fakenamegenerator.com)
+* [10minutemail](10minutemail.com)
+* [guerrillamail](guerrillamail.com)
+* [mailinator](mailinator.com)
+
 # 3. Software
 ## 3.1 Mailing Services
 ## 3.2 Password Managers
