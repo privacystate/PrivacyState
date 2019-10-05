@@ -68,7 +68,19 @@ We consider software that respects your privacy the one that does not seek to ob
 Many times the software that meets these conditions is the Open Source software. It may be that on occasion some proprietary software is recommended, even though that will be warned. The fact that some proprietary software is recommended may be due to its policies, its history, transparency and that its general conditions point to a protection and compliance with the above conditions.
 
 ## 3.1 Mailing Services
+|    Name   | Open Source  | Encryption  |  14-Eyes  | Importing | Policies |
+|-----------|--------------|-------------|-----------|-----------|----------|
+| Tutanota  | Yes | Yes | Yes (Germany | No | A+ |
+| Posteo    | Yes | Yes | Yes (Germany)| ?  | A+ |
+| Disroot   | Yes | Yes | No (Netherlands| Yes | B- |
 ## 3.2 Password Managers
+Password reuse and simple, easy-to-guess passwords are the biggest problems when using online services. If one service gets compromised (either by guessing your password or by exploiting a security vulnerability in the service's infrastructure), an attacker may gain access to all of your other accounts. But using different passwords for all websites is difficult without a way of storing them somewhere safe. Especially with arbitrary password rules for various services, it becomes increasingly hard to use both strong and diverse passwords. 
+
+|    Name   | Open Source  | Encryption  |  Multidevice Sync | Policies | Self Host |
+|-----------|--------------|-------------|-----------|-----------|--------|
+| Bitwarden  | Yes | Yes | Yes | A+ | Yes |
+| KeepassXC    | Yes | Yes | Yes | A+ | Yes |
+
 ## 3.3 Web Browsers
 ### 3.3.1 Web Browser Configurations
 #### Firefox
