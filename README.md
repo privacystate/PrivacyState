@@ -5,7 +5,7 @@ Welcome to [PrivacyState](https://privacystate.org) resources repository. This w
 
 ## Considerations
 * The guide versions will be strongly revised and discussed before being published.
-* Any complains about a Guide's version can be issued on the Repository's issues tab or in the [suggestions.md](https://github.com/privacystate/PrivacyState/blob/master/suggestions.md) file.
+* Any complains about a Guide's version can be issued on the Repository's issues tab.
 
 ## Contributing
 
