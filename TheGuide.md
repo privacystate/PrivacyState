@@ -1,5 +1,5 @@
 # Components
-[https://github.com/privacystate/PrivacyState/blob/master/TheGuide.md#1-introduction](1. Introdution)
+[1. Introdution](#1-introduction)
 2. Basics
 3. Software
    1. Mailing Services
