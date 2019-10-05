@@ -1,5 +1,4 @@
-# Components
-
+# Contents
 1. [Introdution](#1-introduction)
 2. [Basics](#2-basics)
 3. [Software](#3-software)
